@@ -1,0 +1,5 @@
+Model,Avg Latency (ms),Avg Memory Usage (MB)
+RNN,8.54,0.72
+LSTM,5.19,0.5
+Bi-LSTM,3.32,0.19
+GPT-2,22575.01,115.17
